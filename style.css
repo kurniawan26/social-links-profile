@@ -73,6 +73,8 @@ body {
 
 .card-description {
   margin: 1rem 0;
+  max-width: 275px;
+  text-align: center;
 }
 
 .card-socials {
